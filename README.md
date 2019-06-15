@@ -5,7 +5,7 @@ The bureacrat processes your forms and returns tidy objects.
 ### Installation
 
 ```
-meteor add zendy:bureaucrat
+meteor add meteorhubdotnet:bureaucrat
 ```
 
 ### Usage
