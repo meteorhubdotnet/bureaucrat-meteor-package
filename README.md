@@ -1,6 +1,6 @@
 # Bureaucrat Meteor Package
 
-The bureacrat processes your forms and returns tidy objects.
+The bureaucrat processes your forms and returns tidy objects.
 
 ### Installation
 

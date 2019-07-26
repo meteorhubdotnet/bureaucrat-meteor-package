@@ -52,7 +52,7 @@ Bureaucrat.getFormData = function( formObject ){
         }
 
     });
-    
+
     // All done!
     return formData;
 
